@@ -1,4 +1,4 @@
-# Hello, welcome to my GitHub! 👋
+# Hello 👋
 
 <!-- Top Langs Card -->
 <p align="center">
