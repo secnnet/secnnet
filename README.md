@@ -1,3 +1,13 @@
-# Hi 👋
+# Hi there! 👋
 
-I am writing to share important information about the security topics I have been working on. The content I am sharing may include sophisticated scripts, including viruses and ransomware. Exercise caution when executing them. Execute the scripts within a separate and isolated environment, such as a virtual machine (VM), for safety. Review the accompanying README file thoroughly before engaging with any new materials. It contains comprehensive guidelines and instructions. My intention is purely educational, and your security is a priority. If you have any questions or concerns, please reach out to me.
+## About Me
+
+I'm a security consultant with over 10 years of experience in the field. I have had the privilege of working in various domains of security, allowing me to gain a comprehensive understanding of the industry. I thoroughly enjoy collaborating on different projects and applying my expertise to address security challenges.
+
+## GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=radical)](https://github.com/secnnet)
+
+Feel free to reach out if you have any questions or if there's anything I can assist you with. You can connect with me via:
+
+- Twitter: [@89_tweets](https://twitter.com/89_tweets)
