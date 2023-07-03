@@ -23,3 +23,4 @@ Feel free to tweet me if you have any questions or if there's anything I can ass
 
 Your support is greatly appreciated! If you find my work helpful, you can buy me a coffee to show your support and fuel more security-related content.
 
+Happy coding and stay secure! 😄🔒
