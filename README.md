@@ -15,7 +15,7 @@ I'm a security consultant with over 10 years of experience in the field. I have 
   </div>
 </p>
 
-Feel free to reach out if you have any questions or if there's anything I can assist you with. You can connect with me via:
+Feel free to tweet me if you have any questions or if there's anything I can assist you with. You can connect with me via:
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/89_tweets?style=social)](https://twitter.com/89_tweets)
 - [![Buy Me a Coffee](https://img.shields.io/static/v1?label=Buy%20Me%20a%20Coffee&message=ibil3l&color=FF813F&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/iBil3l)
