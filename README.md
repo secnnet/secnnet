@@ -23,4 +23,4 @@ I am a **Security Architect**.
 
 [![Buy Me a Coffee](https://img.shields.io/static/v1?label=Buy%20Me%20a%20Coffee&message=ibil3l&color=FF813F&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/iBil3l)
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
