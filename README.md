@@ -31,8 +31,4 @@ Currently, I’m working on **OSCP PEN-200**. I post insights on [X (formerly Tw
 
 ## Connect with Me
 
-You can find me on [X (formerly Twitter)](https://x.com/Bilel_Here), where I share my journey through **OSCP PEN-200**. I’m hoping to carve out time soon to share some cool projects and insights here—stay tuned for updates!
-
----
-
-Thanks for stopping by! I’m always open to connecting and learning from others, so feel free to explore my projects or reach out. 😊 
+[![Follow me on X](https://img.shields.io/static/v1?label=Follow%20Me%20on%20X&message=@Bilel_Here&color=1DA1F2&logo=twitter&logoColor=white)](https://x.com/Bilel_Here)
