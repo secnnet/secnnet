@@ -6,6 +6,8 @@ I’m a **Security Architect** with a passion for **Penetration Testing**. I enj
 
 Currently, I’m working on **OSCP PEN-200**. I post insights on [X (formerly Twitter)](https://x.com/Bilel_Here) about the labs I find challenging and how I overcome them. It’s been a humbling and rewarding journey of learning and growth so far.
 
+📄 [View my Resume](Resume.pdf)
+
 ---
 
 ## GitHub Stats
@@ -33,4 +35,4 @@ You can find me on [X (formerly Twitter)](https://x.com/Bilel_Here), where I sha
 
 ---
 
-Thanks for stopping by! I’m always open to connecting and learning from others, so feel free to explore my projects or reach out. 😊
+Thanks for stopping by! I’m always open to connecting and learning from others, so feel free to explore my projects or reach out. 😊 
