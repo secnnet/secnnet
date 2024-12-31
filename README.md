@@ -1,8 +1,9 @@
-# Welcome, 
+# Hi, I'm Bilel  
 
 ## About Me
 
-Security Architect: Ensuring bytes behave, one firewall at a time. Believe in strong coffee and stronger passwords.
+ <strong>Security Architect</strong> with a passion for <strong>Penetration Testing</strong>. I enjoy uncovering vulnerabilities, solving challenging security puzzles, and learning something new every day.
+    
 
 <p align="center">
   <div style="display:flex; justify-content:center">
