@@ -4,6 +4,10 @@
 
 I'm a <strong>Security Architect</strong> with a passion for <strong>Penetration Testing</strong>. I thrive on uncovering vulnerabilities, solving complex security puzzles, and embracing the thrill of learning something new every day.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=secnnet&color=brightgreen" alt="Profile Views">
+</p>
+
 ---
 
 ## 🌟 Portfolio
