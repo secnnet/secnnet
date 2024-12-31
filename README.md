@@ -16,14 +16,24 @@ Check out my portfolio to learn more about my projects and experience:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <div style="display:flex; justify-content:center">
-    <a href="https://github.com/secnnet" style="flex:1; text-align:center">
-      <img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=radical" alt="Bilel's GitHub stats">
-    </a>
-    <a href="https://github.com/secnnet" style="flex:1; text-align:center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=radical" alt="Top Languages">
-    </a>
-  </div>
+  <a href="https://github.com/secnnet">
+    <img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=radical" alt="Bilel's GitHub stats" width="48%">
+  </a>
+  <a href="https://github.com/secnnet">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=radical" alt="Bilel's GitHub Streak" width="48%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/secnnet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=secnnet&theme=radical" alt="Bilel's GitHub Summary" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/secnnet">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  </a>
 </p>
 
 ---
