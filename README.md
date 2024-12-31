@@ -15,14 +15,10 @@ Security Architect: Ensuring bytes behave, one firewall at a time. Believe in st
   </div>
 </p>
 
-<p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=secnnet.secnnet">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=secnnet.secnnet" alt="Visitor Count">
-  </a>
-</p>
-
 Feel free to tweet me or buy me coffee.
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/89_tweets?style=social)](https://twitter.com/89_tweets)
   
 - [![Buy Me a Coffee](https://img.shields.io/static/v1?label=Buy%20Me%20a%20Coffee&message=ibil3l&color=FF813F&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/iBil3l)
+
+
