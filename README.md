@@ -6,6 +6,13 @@ I'm a <strong>Security Architect</strong> with a passion for <strong>Penetration
 
 ---
 
+## 🌟 Portfolio
+
+Check out my portfolio to learn more about my projects and experience:  
+[**Visit My Portfolio**](https://secnnet.github.io/BilelPortfolio/)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
