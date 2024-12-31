@@ -1,8 +1,8 @@
-# Hi, I'm Bilel 👋  
+# Hi there, I'm Bilel 👋  
 
 ## About Me
 
-<strong>Security Architect</strong> with a passion for <strong>Penetration Testing</strong>. I enjoy uncovering vulnerabilities, solving challenging security puzzles, and learning something new every day.
+I'm a <strong>Security Architect</strong> with a passion for <strong>Penetration Testing</strong>. I thrive on uncovering vulnerabilities, solving complex security puzzles, and embracing the thrill of learning something new every day.
     
 <p align="center">
   <div style="display:flex; justify-content:center">
@@ -15,7 +15,7 @@
   </div>
 </p>
 
-Feel free to tweet me or buy me coffee.
+Feel free to connect with me or show your support:
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/bilel_here?style=social)](https://twitter.com/bilel_here)
   
