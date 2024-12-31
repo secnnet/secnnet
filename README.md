@@ -16,7 +16,9 @@ Security Architect: Ensuring bytes behave, one firewall at a time. Believe in st
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=secnnet.secnnet" alt="Visitor Count" style="margin-top: 20px;">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=secnnet.secnnet">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=secnnet.secnnet" alt="Visitor Count">
+  </a>
 </p>
 
 Feel free to tweet me or buy me coffee.
