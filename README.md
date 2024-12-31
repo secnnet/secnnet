@@ -22,3 +22,5 @@ Feel free to connect with me or show your support:
 - [![Buy Me a Coffee](https://img.shields.io/static/v1?label=Buy%20Me%20a%20Coffee&message=ibil3l&color=FF813F&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/iBil3l)
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graineb/)
+
+📄 [View My Resume](./Resume.pdf)
