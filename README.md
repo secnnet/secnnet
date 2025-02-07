@@ -1,7 +1,7 @@
 # Hi, I'm Bilel  
 
 ## About Me  
-I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning. Cybersecurity isn’t just my job—it’s what drives me.
+I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning. 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=secnnet&color=brightgreen" alt="Profile Views">
