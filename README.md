@@ -1,7 +1,7 @@
 # Hi, I'm Bilel  
 
 ## About Me  
-I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
+I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning. 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=secnnet&color=brightgreen" alt="Profile Views">
@@ -10,9 +10,11 @@ I’m a Security Architect and Penetration Tester with a strong focus on uncover
 ---
 
 ## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=secnnet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=onedark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=secnnet&theme=onedark)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=onedark&hide_border=false)  
+
+![GitHub Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=secnnet&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
