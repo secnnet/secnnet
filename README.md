@@ -1,11 +1,16 @@
 # Hi, I'm Bilel  
 
 ## About Me  
-I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning. 
+I’m a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning. Cybersecurity isn’t just my job—it’s what drives me.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=secnnet&color=brightgreen" alt="Profile Views">
 </p>
+
+---
+
+## Portfolio  
+[**View My Portfolio**](https://secnnet.github.io/BilelPortfolio/)
 
 ---
 
@@ -19,8 +24,7 @@ I’m a Security Architect and Penetration Tester with a strong focus on uncover
 ---
 
 ## Resume  
-More details about my experience and skills:  
-[View My Resume](./Resume.pdf)
+[**View My Resume**](./Resume.pdf)
 
 ---
 
@@ -30,6 +34,4 @@ More details about my experience and skills:
 ---
 
 ## Support My Work  
-If you find my work useful, consider buying me a coffee:  
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/iBil3l)
+[**Buy Me a Coffee**](https://www.buymeacoffee.com/iBil3l)
