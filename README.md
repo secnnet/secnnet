@@ -45,6 +45,7 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 ### 🌐 Check Out My Work
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bil3l)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Resume.pdf)
 
 </div>
