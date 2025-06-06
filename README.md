@@ -1,28 +1,71 @@
-# Bilel
+<div align="center">
 
-I'm a Security Architect and Penetration Tester with a strong focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
+# Hi there, I'm Bilel 👋
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
 
-Based in Kyoto, I work in cybersecurity with a focus on penetration testing and security architecture. I enjoy exploring security concepts and sharing knowledge with the community.
+</div>
 
-## Portfolio
+---
 
-[View My Portfolio](https://secnnet.github.io/BilelPortfolio/)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## GitHub Stats
+### 🛡️ About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=dark&hide_border=true)
+I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=dark&hide_border=true)
+I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=dark&hide_border=true)
+I enjoy exploring security concepts and sharing knowledge with the community.
 
-## Resume
+<br clear="right"/>
 
-[View My Resume](./Resume.pdf)
+---
 
-## Support My Work
+<div align="center">
 
-[Buy Me a Coffee](https://buymeacoffee.com/your-profile)
+### 🔥 My Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=tokyonight&hide_border=true" alt="secnnet" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="secnnet" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=tokyonight&hide_border=true" alt="secnnet" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Check Out My Work
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Resume.pdf)
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-profile)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=brightgreen&style=flat-square)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
 
