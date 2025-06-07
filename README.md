@@ -8,7 +8,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Cyberpunk Hacker GIF" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxndDhhbmd4eXk1eWZ4djUyNGVpdDE1dmhmeHRlZHgwbmNlMmdpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10PixLlze8fYiI/giphy.gif">
+
 
 ### 🛡️ About Me
 
