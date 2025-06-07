@@ -2,7 +2,7 @@
 
 # Hi there, I'm Bilel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ### 🛡️ About Me
 
-I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯
+I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯  
 
-I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
+I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.  
 
-I enjoy exploring security concepts and sharing knowledge with the community.
+I enjoy exploring security concepts and sharing knowledge with the community.  
 
 <br clear="right"/>
 
@@ -64,7 +64,7 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=39FF14&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
