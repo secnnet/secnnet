@@ -2,21 +2,21 @@
 
 # Hi there, I'm Bilel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Security Coding" width="400" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🛡️ About Me
 
-I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯  
+I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯
 
-I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.  
+I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
 
-I enjoy exploring security concepts and sharing knowledge with the community.  
+I enjoy exploring security concepts and sharing knowledge with the community.
 
 <br clear="right"/>
 
@@ -26,15 +26,15 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 ### 🔥 My Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=dark&hide_border=true&background=121212&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=39FF14" alt="secnnet" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=tokyonight&hide_border=true" alt="secnnet" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=121212&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" alt="secnnet" />
+<img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="secnnet" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=39FF14&text_color=FFFFFF" alt="secnnet" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=tokyonight&hide_border=true" alt="secnnet" />
 
 </div>
 
@@ -44,9 +44,9 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 ### 🌐 Check Out My Work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=todoist&logoColor=39FF14&labelColor=121212)](https://secnnet.github.io/BilelPortfolio/)
-[![Blog](https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=39FF14&labelColor=121212)](https://medium.com/@bil3l)
-[![Resume](https://img.shields.io/badge/Resume-121212?style=for-the-badge&logo=google-drive&logoColor=39FF14&labelColor=121212)](./Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bil3l)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Resume.pdf)
 
 </div>
 
@@ -56,7 +56,7 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 ### ☕ Support My Work
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-121212?style=for-the-badge&logo=buy-me-a-coffee&logoColor=39FF14&labelColor=121212)](https://buymeacoffee.com/your-profile)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-profile)
 
 </div>
 
@@ -64,7 +64,7 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=secnnet&label=Profile+Views&color=39FF14&style=flat-square&labelColor=121212)
+![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=brightgreen&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
