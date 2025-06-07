@@ -2,7 +2,7 @@
 
 # Hi there, I'm Bilel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D7D7D&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,7 +44,7 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 ### 🌐 Check Out My Work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D7D7D?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bil3l)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Resume.pdf)
 
@@ -64,8 +64,8 @@ I enjoy exploring security concepts and sharing knowledge with the community.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=2D7D7D&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=brightgreen&style=flat-square)
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iY3liZXJXYXZlR3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNBOTk5OTtzdG9wLW9wYWNpdHk6MC45IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3R5bGU9InN0b3AtY29sb3I6IzJEN0Q3RDtzdG9wLW9wYWNpdHk6MC45IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMxRjVGNkY7c3RvcC1vcGFjaXR5OjAuOSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik0wLDEyMCBDMjAwLDgwIDQwMCwxNjAgNjAwLDEyMCBDODAwLDgwIDEwMDAsMTYwIDEyMDAsMTIwIEwxMjAwLDIwMCBMMCwyMDAgWiIgZmlsbD0idXJsKCNjeWJlcldhdmVHcmFkaWVudCkiPjwvcGF0aD4KICA8cGF0aCBkPSJNMCwxNDAgQzE1MCwxMDAgMzUwLDE4MCA1NTAsMTQwIEM3NTAsMTAwIDk1MCwxODAgMTIwMCwxNDAgTDEyMDAsMjAwIEwwLDIwMCBaIiBmaWxsPSIjMkQ3RDdEIiBvcGFjaXR5PSIwLjYiPjwvcGF0aD4KPC9zdmc+" alt="Cybersecurity Wave" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
