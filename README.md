@@ -13,7 +13,7 @@
 
 ### 🛡️ About Me
 
-I'm a Security Architect and Penetration Tester based in **Kyoto** 🏯
+I'm a Security Research and Penetration Tester based in **Kyoto** 🏯
 
 I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
 
