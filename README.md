@@ -1,72 +1,85 @@
 <div align="center">
 
-# Hi there, I'm Bilel 👋
+[![ACCESS GRANTED](https://img.shields.io/badge/MAINFRAME_ACCESS-00FF00?style=for-the-badge&logo=terminal&logoColor=black)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=277FF7&center=true&random=true&width=435&lines=Security+Researcher;Security+Architect;Penetration+Tester;Vulnerability+Researcher;Continuous+Learner;SIEM+Engineering;Security+Engineering)](https://git.io/typing-svg)
+<pre style="font-family:monospace;color:#00FF00;background:#000000;padding:20px;border-radius:5px;border:1px solid #00FF00;text-align:center">
+███████╗███████╗ ██████╗███╗   ██╗███╗   ██╗███████╗████████╗
+██╔════╝██╔════╝██╔════╝████╗  ██║████╗  ██║██╔════╝╚══██╔══╝
+███████╗█████╗  ██║     ██╔██╗ ██║██╔██╗ ██║███████╗   ██║   
+╚════██║██╔══╝  ██║     ██║╚██╗██║██║╚██╗██║╚════██║   ██║   
+███████║███████╗╚██████╗██║ ╚████║██║ ╚████║███████║   ██║   
+╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
+</pre>
 
-</div>
+_Connected: Hokkaido, Japan [NODE 0x5ECUR1TY]_  
+_Transmission Type: PUBLIC_  
 
----
-
-<img align="right" alt="Cyberpunk Hacker GIF" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxndDhhbmd4eXk1eWZ4djUyNGVpdDE1dmhmeHRlZHgwbmNlMmdpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10PixLlze8fYiI/giphy.gif">
-
-
-### 🛡️ About Me
-
-I'm a Security Research and Penetration Tester based in **Kyoto** 🏯
-
-I focus on uncovering vulnerabilities, solving complex security challenges, and continuous learning.
-
-I enjoy exploring security concepts and sharing knowledge with the community.
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### 🔥 My Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=secnnet&theme=tokyonight&hide_border=true" alt="secnnet" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=secnnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="secnnet" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secnnet&layout=compact&theme=tokyonight&hide_border=true" alt="secnnet" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SECURITY+ARCHITECT%3B+PENETRATION+TESTER%3B+VULNERABILITY+RESEARCHER%3B;SIEM+ENGINEER%3B+OSCP%7C+OSWP%7C+CISSP%3B+%5BESTABLISHING+CONNECTION%5D)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+### > SYSTEM PROFILE SCAN
 
-### 🌐 Check Out My Work
+<pre style="font-family:monospace;color:#00FF00;background:#000000;padding:20px;border-radius:5px;border:1px solid #00FF00">
+C:\SECURITY> whoami
+USER: SECNNET
+LAST_LOGIN: 11-AUG-1989 14:35:17 GMT
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://secnnet.github.io/BilelPortfolio/)
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bil3l)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Resume.pdf)
+C:\SECURITY> sysinfo -roles
+PRIMARY: SECURITY ARCHITECT
+SECONDARY: PENETRATION TESTER
+AUXILIARY: VULNERABILITY RESEARCHER
 
-</div>
+C:\SECURITY> locate -user
+COORDINATES: 43.2203° N, 142.8635° E
+CITY: HOKKAIDO, JAPAN
+STATUS: CONNECTED
 
----
+C:\SECURITY> cert_verify
+[+] VALIDATED CREDENTIALS:
+  • OSCP (OFFENSIVE SECURITY)
+  • OSWP (WIRELESS PROFESSIONAL)
+  • CISSP (ISC2)
+  • CompTIA Security+
+  • Splunk Architect
+  • Palo Alto ACE
 
-<div align="center">
+C:\SECURITY> specialties --list
+1. SIEM ENGINEERING (SPLUNK/SENTINEL)
+2. THREAT HUNTING & DETECTION
+3. SECURITY ARCHITECTURE
+4. CLOUD SECURITY (AZURE/AWS)
+5. INCIDENT RESPONSE
 
-### ☕ Support My Work
+C:\SECURITY> motto
+"SECURE BY DESIGN; TESTED BY FIRE"
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-profile)
+C:\SECURITY> bio
+PASSIONATE ABOUT BUILDING SECURE SYSTEMS
+THROUGH OFFENSIVE TESTING AND DEFENSIVE
+DESIGN. 10+ YEARS IN GLOBAL SECURITY
+OPERATIONS AND ARCHITECTURE.
 
-</div>
+C:\SECURITY> dir /PORTFOLIO
+[1] PROJECTS.............[ACCESS: 0x5EC9]
+[2] RESEARCH.............[ACCESS: 0xEXPL01T]
+[3] WRITINGS.............[ACCESS: 0xWR1T3UP]
+[4] CREDENTIALS..........[SECURITY CLEARANCE REQUIRED]
 
----
+C:\SECURITY> establish_links
+> INITIATING SECURE TRANSFER...
+> ENCRYPTION: AES-256 ACTIVE
+[!] SECURITY NOTICE: ALL CONNECTIONS MONITORED
 
-<div align="center">
+[11-AUG-1989 14:36:02] ACCESS GRANTED - USER: SECNNET
+[11-AUG-1989 14:36:04] PUBLIC KEY EXCHANGE COMPLETE
+[11-AUG-1989 14:36:07] SECURE CHANNEL ESTABLISHED
+[11-AUG-1989 14:36:11] DATASTREAM ACTIVE: CODEC_GREEN
+[11-AUG-1989 14:36:15] NOTICE: TERMINAL ECHO ENABLED
 
-![Profile Views](https://komarev.com/ghpvc/?username=secnnet&color=brightgreen&style=flat-square)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
+> SYSTEM STATUS: OPERATIONAL
+> THREAT LEVEL: GREEN
+> LAST INTRUSION ATTEMPT: 72 DAYS AGO
+</pre>
