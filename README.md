@@ -1,25 +1,25 @@
-<div align="center">
-
-# Bilel Graine  
+# Bilel Graine
 **Senior Security Engineer**
 
+---
+
+## 🛡️ Profile  
+I help teams catch threats early and deal with them quickly. My work covers SIEM, EDR/XDR, incident response, SOAR automation, and cloud & identity security. I like keeping things practical and human, not over-engineered.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="The IT Crowd Gif"/>
 </div>
 
 ---
 
-## 📓 Profile  
-I help teams catch threats early and deal with them quickly. My work covers SIEM, EDR/XDR, incident response, SOAR automation, and cloud & identity security. I like keeping things practical and human, not over-engineered.  
-
----
-
 ## ✍️ About me  
-I started my career in security engineering nearly a decade ago, working across global industries with IBM and later BlueVoyant before moving into senior detection engineering roles. I enjoy solving real problems with straightforward solutions.  
-
-Outside of work, I train in Brazilian Jiu-Jitsu and Muay Thai, I like fishing, and I love playing chess. Coffee usually helps too.  
+I started my career in security engineering nearly a decade ago, working across global industries with IBM and later BlueVoyant before moving into senior detection engineering roles. I enjoy solving real problems with straightforward solutions. Outside of work, I train in Brazilian Jiu-Jitsu and Muay Thai, I like fishing, and I love playing chess. Coffee usually helps too.
 
 ---
 
-## 🛠 What I do  
+## 🔧 What I do  
 - Detection engineering & SIEM optimisation  
 - Incident response & ransomware defence  
 - EDR/XDR deployment and audits  
@@ -28,16 +28,16 @@ Outside of work, I train in Brazilian Jiu-Jitsu and Muay Thai, I like fishing, a
 
 ---
 
-## 🧩 Core skills  
+## ⚙️ Core skills  
 
-| Domain            | Tools / Focus |
-|-------------------|---------------|
-| **SIEM**          | Microsoft Sentinel, Splunk ES/ITSI, QRadar, Chronicle, Elastic Security |
-| **EDR/XDR**       | Defender for Endpoint, CrowdStrike Falcon, Cortex XDR, Carbon Black |
-| **SOAR**          | Cortex XSOAR, Splunk SOAR (Phantom), Sentinel Logic Apps, Ansible, Terraform |
-| **Network & NDR** | Palo Alto NGFWs, Prisma Access, Cisco ASA, Check Point, Darktrace |
-| **Cloud & Identity** | Microsoft 365 Defender, Azure AD (Conditional Access, PIM), Purview, AIP |
-| **Engineering**   | PowerShell, Python, Linux/Windows Server, VMware/ESXi |
+| Domain         | Tools / Focus                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| **SIEM**       | Microsoft Sentinel, Splunk ES/ITSI, QRadar, Chronicle, Elastic Security       |
+| **EDR/XDR**    | Defender for Endpoint, CrowdStrike Falcon, Cortex XDR, Carbon Black           |
+| **SOAR**       | Cortex XSOAR, Splunk SOAR (Phantom), Sentinel Logic Apps, Ansible, Terraform  |
+| **Network**    | Palo Alto NGFWs, Prisma Access, Cisco ASA, Check Point, Darktrace             |
+| **Cloud**      | Microsoft 365 Defender, Azure AD (Conditional Access, PIM), Purview, AIP      |
+| **Engineering**| PowerShell, Python, Linux/Windows Server, VMware/ESXi                         |
 
 ---
 
@@ -52,3 +52,12 @@ Outside of work, I train in Brazilian Jiu-Jitsu and Muay Thai, I like fishing, a
 
 ## 🎓 Certifications  
 OSCP · OSWP · OSWA · CISSP · Security+ · PenTest+ · Linux+ · Splunk Architect · Splunk Accredited Consultant · Palo Alto ACE  
+
+---
+
+## 📬 Contact  
+- **Email:** bilel.graine@pm.me  
+- **GitHub:** [github.com/secnnet](https://github.com/secnnet)  
+- **LinkedIn:** [linkedin.com/in/graineb](https://linkedin.com/in/graineb)  
+
+---
