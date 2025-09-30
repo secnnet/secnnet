@@ -1,85 +1,54 @@
 <div align="center">
 
-[![ACCESS GRANTED](https://img.shields.io/badge/MAINFRAME_ACCESS-00FF00?style=for-the-badge&logo=terminal&logoColor=black)]()
-
-<pre style="font-family:monospace;color:#00FF00;background:#000000;padding:20px;border-radius:5px;border:1px solid #00FF00;text-align:center">
-███████╗███████╗ ██████╗███╗   ██╗███╗   ██╗███████╗████████╗
-██╔════╝██╔════╝██╔════╝████╗  ██║████╗  ██║██╔════╝╚══██╔══╝
-███████╗█████╗  ██║     ██╔██╗ ██║██╔██╗ ██║███████╗   ██║   
-╚════██║██╔══╝  ██║     ██║╚██╗██║██║╚██╗██║╚════██║   ██║   
-███████║███████╗╚██████╗██║ ╚████║██║ ╚████║███████║   ██║   
-╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
-</pre>
-
-_Connected: Hokkaido, Japan [NODE 0x5ECUR1TY]_  
-_Transmission Type: PUBLIC_  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SECURITY+ARCHITECT%3B+PENETRATION+TESTER%3B+VULNERABILITY+RESEARCHER%3B;SIEM+ENGINEER%3B+OSCP%7C+OSWP%7C+CISSP%3B+%5BESTABLISHING+CONNECTION%5D)](https://git.io/typing-svg)
+# Bilel Graine  
+**Senior Security Engineer**
 
 </div>
 
 ---
 
-### > SYSTEM PROFILE SCAN
+## 📓 Profile  
+I help teams catch threats early and deal with them quickly. My work covers SIEM, EDR/XDR, incident response, SOAR automation, and cloud & identity security. I like keeping things practical and human, not over-engineered.  
 
-<pre style="font-family:monospace;color:#00FF00;background:#000000;padding:20px;border-radius:5px;border:1px solid #00FF00">
-C:\SECURITY> whoami
-USER: SECNNET
-LAST_LOGIN: 11-AUG-1989 14:35:17 GMT
+---
 
-C:\SECURITY> sysinfo -roles
-PRIMARY: SECURITY ARCHITECT
-SECONDARY: PENETRATION TESTER
-AUXILIARY: VULNERABILITY RESEARCHER
+## ✍️ About me  
+I started my career in security engineering nearly a decade ago, working across global industries with IBM and later BlueVoyant before moving into senior detection engineering roles. I enjoy solving real problems with straightforward solutions.  
 
-C:\SECURITY> locate -user
-COORDINATES: 43.2203° N, 142.8635° E
-CITY: HOKKAIDO, JAPAN
-STATUS: CONNECTED
+Outside of work, I train in Brazilian Jiu-Jitsu and Muay Thai, I like fishing, and I love playing chess. Coffee usually helps too.  
 
-C:\SECURITY> cert_verify
-[+] VALIDATED CREDENTIALS:
-  • OSCP (OFFENSIVE SECURITY)
-  • OSWP (WIRELESS PROFESSIONAL)
-  • CISSP (ISC2)
-  • CompTIA Security+
-  • Splunk Architect
-  • Palo Alto ACE
+---
 
-C:\SECURITY> specialties --list
-1. SIEM ENGINEERING (SPLUNK/SENTINEL)
-2. THREAT HUNTING & DETECTION
-3. SECURITY ARCHITECTURE
-4. CLOUD SECURITY (AZURE/AWS)
-5. INCIDENT RESPONSE
+## 🛠 What I do  
+- Detection engineering & SIEM optimisation  
+- Incident response & ransomware defence  
+- EDR/XDR deployment and audits  
+- SOAR automation playbooks  
+- Cloud & identity security hardening  
 
-C:\SECURITY> motto
-"SECURE BY DESIGN; TESTED BY FIRE"
+---
 
-C:\SECURITY> bio
-PASSIONATE ABOUT BUILDING SECURE SYSTEMS
-THROUGH OFFENSIVE TESTING AND DEFENSIVE
-DESIGN. 10+ YEARS IN GLOBAL SECURITY
-OPERATIONS AND ARCHITECTURE.
+## 🧩 Core skills  
 
-C:\SECURITY> dir /PORTFOLIO
-[1] PROJECTS.............[ACCESS: 0x5EC9]
-[2] RESEARCH.............[ACCESS: 0xEXPL01T]
-[3] WRITINGS.............[ACCESS: 0xWR1T3UP]
-[4] CREDENTIALS..........[SECURITY CLEARANCE REQUIRED]
+| Domain            | Tools / Focus |
+|-------------------|---------------|
+| **SIEM**          | Microsoft Sentinel, Splunk ES/ITSI, QRadar, Chronicle, Elastic Security |
+| **EDR/XDR**       | Defender for Endpoint, CrowdStrike Falcon, Cortex XDR, Carbon Black |
+| **SOAR**          | Cortex XSOAR, Splunk SOAR (Phantom), Sentinel Logic Apps, Ansible, Terraform |
+| **Network & NDR** | Palo Alto NGFWs, Prisma Access, Cisco ASA, Check Point, Darktrace |
+| **Cloud & Identity** | Microsoft 365 Defender, Azure AD (Conditional Access, PIM), Purview, AIP |
+| **Engineering**   | PowerShell, Python, Linux/Windows Server, VMware/ESXi |
 
-C:\SECURITY> establish_links
-> INITIATING SECURE TRANSFER...
-> ENCRYPTION: AES-256 ACTIVE
-[!] SECURITY NOTICE: ALL CONNECTIONS MONITORED
+---
 
-[11-AUG-1989 14:36:02] ACCESS GRANTED - USER: SECNNET
-[11-AUG-1989 14:36:04] PUBLIC KEY EXCHANGE COMPLETE
-[11-AUG-1989 14:36:07] SECURE CHANNEL ESTABLISHED
-[11-AUG-1989 14:36:11] DATASTREAM ACTIVE: CODEC_GREEN
-[11-AUG-1989 14:36:15] NOTICE: TERMINAL ECHO ENABLED
+## 🚀 Experience highlights  
+- Cut SIEM costs by a third while keeping alerts sharper and more useful.  
+- Built playbooks that handle phishing and ransomware in minutes, not hours.  
+- Fixed visibility gaps in XDR tools and got thousands of endpoints back under watch.  
+- Strengthened detection for Golden Ticket and Kerberoasting attacks, tested hands-on with red and blue teams.  
+- Led response during ransomware incidents, from isolating machines to briefing execs.  
 
-> SYSTEM STATUS: OPERATIONAL
-> THREAT LEVEL: GREEN
-> LAST INTRUSION ATTEMPT: 72 DAYS AGO
-</pre>
+---
+
+## 🎓 Certifications  
+OSCP · OSWP · OSWA · CISSP · Security+ · PenTest+ · Linux+ · Splunk Architect · Splunk Accredited Consultant · Palo Alto ACE  
