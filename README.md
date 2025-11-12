@@ -13,8 +13,3 @@ Cyber Security and stuff
 
 ## Certs
 **CISSP** · **OSCP** · **OSWP** · **OSWA** · **Security+** · **PenTest+** · **Splunk Architect** · **Palo Alto ACE** . **AWS** 
-
----
-
-## Connect
-[GitHub](https://github.com/secnnet) • [LinkedIn](https://linkedin.com/in/graineb)
